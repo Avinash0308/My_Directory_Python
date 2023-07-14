@@ -1,0 +1,8 @@
+print("Hello World")
+print(5)
+print("BYe")
+print(8+9)
+print(17*13)
+print(17 % 13)
+print(16/23)
+print("Kaun bola mujhe na ho payega?Ka\nyega!Uth ja apni raakh seTu uth ja ab talaash meinParwaaz dekh parwaane kiAasmaan bh\n aayegaMere jaisa shaana lalaTujhe na mil paayegaYe shabdo ka jwaalaMeri bediyan\nTu utna hi toh khaayegaAisa mera khwaab haiJo dar ko bhi sataayegaZinda mera khwabAb\n jeene deAb khauf nahi hai seene meinHar raaste ko cheerengeHum kaamyabi cheenengeSab \n ab jeene meinKyun?Kyunki apna time aayegaTu nanga hi toh aaya haiKya ghanta lekar \ne aayegaApna time aayegaTu nanga hi toh aaya haiKya ghanta lekar jaayegaApna time a\naayegaTu nanga hi toh aaya haiKya ghanta lekar…Kisi ka haath nahi tha sar parYa\nainJitni taakat kismat mein nahiUtni rehmat mein haiPhir bhi ladka sehmat nahi hai\nyahan marzi ki aur jurrat ki haiTaakat ki hai, aafat ki, himaakat ki, Ibadat kiAdaala\n, amaanat kiJeetne ki ab aadat kiYeh shohrat ki, ab laalach nahi haiTere bhai jaisa\n, hard, hard…Iss harkat ne hi barkat di haiKyun?Kyunki apna time aayegaTu nanga hi toh\ngaApna time aayegaApna time aayegaApna time aayegaTu nanga hi toh aaya haiKya ghan\na!Apna time aayega!Apna time aayega!Tu nanga hi toh aaya haiKya ghanta lekar jaayegaKal nanga hi toh aaya thaKya tu ghanta lekar jaayegaApna time aayega!Apna time aayega!Apna time aayega naTu nanga hi toh jayega na…")
