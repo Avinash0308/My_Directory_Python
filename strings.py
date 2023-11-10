@@ -22,7 +22,7 @@ friend = "Rohan"
 another_friend = "Himanshu"
 print("Hello," + name)
 an = 'avi'
-print("\n",an)
+print("\n", an)
 apple = "I want to eat apple 'for sure' "
 print(apple)
 apple = 'I again want to eat apple "for sure"'
@@ -46,4 +46,3 @@ print(name[6])
 print("Now learning for loop in python")
 for character in name:
     print(character)
-    

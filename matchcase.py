@@ -4,7 +4,7 @@ match val:
         print("HEHEHEhE")
     case 2:
         print("rajaji")
-    case _ if(val != 23):
+    case _ if (val != 23):
         print("BOHOT TEJ HO RAHE HO")
     case _:
         print("TATA BYE BYE KHATAM")
