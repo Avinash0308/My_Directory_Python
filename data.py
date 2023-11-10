@@ -30,3 +30,22 @@ tuplee = (3,534,32,(343,53534,"adffdfd"),("fdoifiH",34,'O',"fjdiirj"),"ffdsf")
 print(tuplee)
 dict = {"Me":"You","Mine":"Yours","You":"Me","Yours":"Mine","Rock":"Roll",3:"me","Me":3}
 print(dict)
+a = 134234342343234
+a = "alnd"
+print(a)
+print("Knock Knock Tera Baap Aaya")
+print(10*5,"Jhattttt")
+print("Lak 28 Kudi da 47 Weight Kudi da")
+me = False
+me = True
+com = complex(8,0)
+print(com)
+me = None
+me = set
+bool  = True
+if bool == False:
+    print(bool)
+print("5538" +  "38", type(a))
+kuchbhi = [1,3,3,3,3,3,3,[1,3,3,5,2],4.5,"me"]
+print(kuchbhi)
+tuple = []
