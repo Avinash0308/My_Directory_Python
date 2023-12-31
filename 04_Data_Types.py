@@ -22,19 +22,21 @@ com= complex(3,6)
 print(com)
 print("The data type of com is ",type(com))
 list1 = [3,523,534,3,532,523,5335,25,2,5352,22.52,335,253,5252]
+print(list1)
 print("The data type of list1 is ",type(list1))
 list2 = [[234,234,343],234,2.52,35.3,[234,3],"34324324",'c',["343",23232]]
 print(list2)
-print(list1)
+print("The data type of list1 is ",type(list2))
 tuplee = (3,534,32,(343,53534,"adffdfd"),("fdoifiH",34,'O',"fjdiirj"),"ffdsf")
 print(tuplee)
+print("The data type of tuplee is ",type(tuplee))
 dict = {"Me":"You","Mine":"Yours","You":"Me","Yours":"Mine","Rock":"Roll",3:"me","Me":3}
 print(dict)
 a = 134234342343234
 a = "alnd"
 print(a)
 print("Knock Knock Tera Baap Aaya")
-print(10*5,"Jhattttt")
+print(10*5,"Jtt")
 print("Lak 28 Kudi da 47 Weight Kudi da")
 me = False
 me = True
@@ -49,3 +51,4 @@ print("5538" +  "38", type(a))
 kuchbhi = [1,3,3,3,3,3,3,[1,3,3,5,2],4.5,"me"]
 print(kuchbhi)
 tuple = []
+print(tuple)
