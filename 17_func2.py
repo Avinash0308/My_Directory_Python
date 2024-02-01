@@ -1,5 +1,5 @@
 def avg(a=3,b=2):
-    print("The average is",(a+b)/2)
+    print("The average is",(a-b)/2)
 avg()
 avg(6)
 avg(b=6)
