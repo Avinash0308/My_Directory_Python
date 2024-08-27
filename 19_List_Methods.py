@@ -16,6 +16,7 @@ print(l)
 print(l.index(1))
 
 l.append(1)
+
 print(l)
 
 print(l.index(1))
@@ -28,12 +29,14 @@ lisy = l
 lisy[0] = 1
 
 print(lisy)
+
 print(l)
 
 lisy = l.copy()
 lisy[0] = 10
 
 print(lisy)
+
 print(l)
 
 l.insert(1, 134)

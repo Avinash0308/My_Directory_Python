@@ -1,4 +1,4 @@
-# #Hey this is what I know for how to comment in python in c and c++ this is done using//
+# Hey this is what I know for how to comment in python in c and c++ this is done using//
 # hello everyone my name is avinash agrawal and i am a student of aks university satna this is very good to see very well now it is very low for me to tell to you
 print("Hey i am a good boy\nand this viewer is also a good boy")
 # This is very new to me and i am very excited for it for sure lets go for it
