@@ -30,5 +30,5 @@ print(tup)
 print(tup[0:100:2])
 
 
-print(tup[0::2])
+print(tup[0::3])
 
