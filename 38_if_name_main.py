@@ -1,0 +1,3 @@
+import Avi
+
+Avi.welcome()
